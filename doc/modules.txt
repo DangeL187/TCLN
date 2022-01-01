@@ -1,0 +1,9 @@
+-----------------------------------------------------
+Total Control over the Local Network (TCLN) by DangeL
+-----------------------------------------------------
+Tasks Monitoring Mode:
+Runs top command
+-----------------------------------------------------
+Hardware Monitoring Mode:
+Runs sensors command
+-----------------------------------------------------

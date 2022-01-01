@@ -1,0 +1,1 @@
+g++ ../src/tcln.cpp -o ../bin/tcln -static-libstdc++ -static-libgcc -lpthread

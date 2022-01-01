@@ -1,0 +1,17 @@
+-----------------------------------------------------
+Total Control over the Local Network (TCLN) by DangeL
+-----------------------------------------------------
+1) Internet speed test
+2) Use of internet resourses //nethogs?
+3) Internet traffic monitoring //pcap?
+4) Remote control
+5) Custom options for commands
+6) Custom commands
+7) Add command "new" that will show info about recent update
+
+Notifications:
+1) Notification in case of net problems //ping?
+2) Notification in case of too high temperature(CPU, GPU)
+3)
+
+remove mode variable?
