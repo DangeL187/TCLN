@@ -2,7 +2,7 @@
 Total Control over the Local Network (TCLN) by DangeL
 -----------------------------------------------------
 1) Internet speed test
-2) Use of internet resourses //nethogs?
+2) Use of internet resourses //nethogs? +
 3) Internet traffic monitoring //pcap?
 4) Remote control
 5) Custom options for commands
