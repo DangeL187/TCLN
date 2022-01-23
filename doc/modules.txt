@@ -7,3 +7,6 @@ Runs top command
 Hardware Monitoring Mode:
 Runs sensors command
 -----------------------------------------------------
+Use of Internet Resources Monitoring Mode
+Runs nethogs command
+-----------------------------------------------------
