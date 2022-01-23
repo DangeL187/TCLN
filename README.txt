@@ -11,7 +11,8 @@ test - TCLN's files used for testing
 versions - TCLN's previous versions
 -----------------------------------------------------
 Source files:
-TCLN.cpp - main application
+tcln.cpp - main application
+For more info about source files read headers.h
 -----------------------------------------------------
 Compilation:
 Go to the bin folder and type:
