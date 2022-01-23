@@ -4,4 +4,6 @@ Total Control over the Local Network (TCLN) by DangeL
 0.1 - project has been created and prepared for work
 0.2 - added task monitoring and main function for i/o
 0.3 - added advanced mode and args
-0.4 - better interface, added hardware monitoring mode, added traffic monitoring mode [current]
+0.4 - better interface, added hardware monitoring mode, added use of internet resources monitoring mode
+0.5 - added mini test, added unique functions for every module, added color
+0.6 - ?
